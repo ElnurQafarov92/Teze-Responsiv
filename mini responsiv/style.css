@@ -1,0 +1,52 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+
+.container  .box{
+    margin-top: 100px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: blue;
+
+ 
+
+}
+.container  .box1{
+    margin-top: 100px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(158, 42, 42);
+
+}
+
+
+.container  .box2{
+    margin-top: 100px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(23, 1, 1);
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+   
+}
+
+
+
+
